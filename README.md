@@ -1,1 +1,1 @@
-# cs470_finalproj
+# Team 7 Final Project
